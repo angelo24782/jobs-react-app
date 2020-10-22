@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Build a GitHub Jobs App With React Hooks
+
+React app that works with the GitHub Jobs API that includes search, filter, pagination, etc
+
+## Link Demo
 
 ## Available Scripts
 
