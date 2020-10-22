@@ -4,6 +4,10 @@ React app that works with the GitHub Jobs API that includes search, filter, pagi
 
 ## Link Demo
 
+https://jobs-react-app.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93eb588e-79e3-4387-88a1-9f24f53731c1/deploy-status)](https://app.netlify.com/sites/jobs-react-app/deploys)
+
 ## Available Scripts
 
 In the project directory, you can run:
